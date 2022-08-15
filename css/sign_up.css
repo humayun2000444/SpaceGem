@@ -1,0 +1,41 @@
+.bg {
+  background-image: url("../img/Register.png");
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.fill {
+  height: 80px; }
+.main{
+  margin: auto;
+  width: 60%;
+}
+.container{
+  color: #ffff;
+}
+h4{
+  text-align: center;
+}
+.sss{
+  text-align: center;
+}
+.inputt input{
+  width: 65%;
+  height: 42px;
+  border-radius: 3pt;
+  border: 2px solid #4b0082;
+  padding: 20px;
+}
+.check{
+width: 38%;
+}
+.btn{
+  border-radius: 3pt;
+  color: #ffff;
+  font-size: 18px;
+  background-color: #4b0082;
+  font-weight: bold;
+  width: 60%;
+}

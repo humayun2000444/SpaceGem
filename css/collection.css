@@ -1,0 +1,70 @@
+.bg {
+  background-image: url("../img/bg1.png");
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+position: relative;}
+
+.navbar-brand img {
+  margin-right: 150px;
+  height: 70px; }
+
+.nav-item {
+  padding-right: 10px; }
+.nav-item img{
+  padding-top: 12px;
+}
+#top-rated div h1{
+  color: #ffff;
+}
+.gem{
+  background-image: url("../img/fade.png");
+  width: 90%;
+  color: #ffff;
+  border-radius: 5pt;
+  background-repeat: no-repeat;
+}
+.btn{
+  border-radius: 3pt;
+  color: #ffff;
+  font-size: 11px;
+  background-color: #4b0082;
+  font-weight: bold;
+}
+.ntn{
+  border-radius: 3pt;
+  color: #ffff;
+  font-size: 20px;
+  background-color: #4b0082;
+  margin-left: 43.5%;
+  border: 1px solid #ffff;
+}
+.rate{
+  font-weight: bold;
+}
+
+.fill {
+  height: 100px; }
+.infa img{
+  position: absolute;
+  left:0px;
+  right: 0px;
+  margin: auto;
+}
+
+.bottom-text {
+  text-align: center;
+  color: #75d5ff;
+  font-size: 20px;
+}
+.px{
+  padding-left: 65px;
+}
+#Copyright {
+  border-top: 1px solid #4c4a5f;
+  height: 50px;
+  color: #4c4a5f;
+  text-align: center; }
+  #Copyright h6 {
+    padding-top: 18px; }
